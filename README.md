@@ -2,5 +2,5 @@
 
 ## Karina Zikan
 
-Email: [karinazikan@u.boisestate.edu](karinazikan@u.boisestate.edu)
+Email: [karinazikan@u.boisestate.edu](mailto:karinazikan@u.boisestate.edu)
 
