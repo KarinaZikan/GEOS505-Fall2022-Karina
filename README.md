@@ -17,8 +17,8 @@ I am transitioning to using Python from MatLab. I use use python to clip tracks 
 ## Goals for the Semester
 
 1. Recreate my MatLab ICESat-2 residual comparison code in a Jupyter Notebook
-2. Confidently resolve a merge conflict
-3. Create a development branch, develop a feature, and then merge the branch back into main 
+2. Create notebook to download ICESat-2 data from nsidc programaticaly 
+3. Confidently resolve a merge conflict
 
 ## SMART Goals
 |S|Specific|
